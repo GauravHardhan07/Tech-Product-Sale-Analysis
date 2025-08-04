@@ -14,22 +14,7 @@ To build an interactive Power BI dashboard that analyzes global technological pr
 | 📍 Country-Wise Brand Dominance           | Which country produces the most diverse range of products | 
 
 
-
-##Analysis Scope
-1. Temporal Analysis
-- Quarterly and monthly breakdown of product launches
-- Seasonal trends in device categories
-2. Geographic Analysis
-- Country of origin vs pricing
-- Regional brand positioning (e.g. Taiwan = gaming laptops, US = flagship smartphones)
-3. Brand & Category Insight
-- Which brands dominate specific categories
-- Comparison of device pricing within brand groups
-4. Price Segmentation
-- Distribution of products across low, mid, and high price bands
-- Average price per brand and category
-
-##Process Workflow
+# Process Workflow
 - Data Cleaning
 - Ensure consistency in brand, date format, and numeric fields
 - Use Power Query for transformation
@@ -43,12 +28,16 @@ To build an interactive Power BI dashboard that analyzes global technological pr
 - Brand comparison charts
 - Drill-through from summary to device-level details
 
-
-
-##Project Insights
+# Project Insights
 - Quarter 1 had the highest product launches and revenue ($10,949)
 - United States contributed nearly half of total revenue (~$15,266)
 - Apple and Dell are high-performing brands with consistent premium pricing
 - Gaming laptops from Asus, Lenovo, and Acer dominate Taiwan's product exports
 - July–October shows mid-year spikes — ideal window for launches
+
+# Final Conclusion
+The analysis of global technological products released in 2021 reveals meaningful patterns in brand performance, pricing strategies, and regional contributions. The United States dominated product value, contributing nearly half of total revenue, followed by Taiwan and China as key players in the gaming and business laptop segments. Brands like Apple, Dell, and HP positioned themselves in the premium pricing bracket, while Sony and Microsoft capitalized on high-demand entertainment and productivity devices.
+Quarter 1 saw the highest concentration of launches and revenue, suggesting strategic prioritization of early-year market entry. Additionally, mid-year spikes in product releases highlight optimal launch windows between July and October, potentially aligning with back-to-school or holiday season planning.
+The combination of granular KPIs and geographic, temporal, and category-based visual 
+
 
